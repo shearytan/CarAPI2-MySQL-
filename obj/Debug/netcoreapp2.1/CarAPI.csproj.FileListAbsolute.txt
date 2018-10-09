@@ -1,0 +1,14 @@
+/Users/Sheary/Desktop/Programming/CarAPI/bin/Debug/netcoreapp2.1/CarAPI.deps.json
+/Users/Sheary/Desktop/Programming/CarAPI/bin/Debug/netcoreapp2.1/CarAPI.runtimeconfig.json
+/Users/Sheary/Desktop/Programming/CarAPI/bin/Debug/netcoreapp2.1/CarAPI.runtimeconfig.dev.json
+/Users/Sheary/Desktop/Programming/CarAPI/bin/Debug/netcoreapp2.1/CarAPI.dll
+/Users/Sheary/Desktop/Programming/CarAPI/bin/Debug/netcoreapp2.1/CarAPI.pdb
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.csprojAssemblyReference.cache
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.csproj.CoreCompileInputs.cache
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.RazorAssemblyInfo.cache
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.RazorAssemblyInfo.cs
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.AssemblyInfoInputs.cache
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.AssemblyInfo.cs
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.RazorTargetAssemblyInfo.cache
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.dll
+/Users/Sheary/Desktop/Programming/CarAPI/obj/Debug/netcoreapp2.1/CarAPI.pdb
